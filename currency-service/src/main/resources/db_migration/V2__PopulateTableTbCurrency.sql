@@ -1,0 +1,11 @@
+insert into tb_currency (source_currency, target_currency, conversion_rate) values
+            ('USD', 'BRL', 4.99), -- REAL (BRASIL)
+            ('USD', 'EUR', 0.92), -- EURO (UNIAO EUROPEIA)
+            ('USD', 'GBP', 0.79), -- LIBRA ESTERLINA (REINO UNIDO)
+            ('USD', 'ARS', 1056.00), -- PESO (ARGENTINA)
+            ('USD', 'CLP', 984.00), -- PESO (CHILE)
+            ('USD', 'COP', 4171.00), -- PESO (COLOMBIA)
+            ('USD', 'MXN', 18.00), -- PESO (MEXICO)
+            ('USD', 'PEN', 3.75), -- SOL (PERU)
+            ('USD', 'UYU', 39.20), -- PESO (URUGUAI)
+            ( 'USD', 'PYG', 7450.00); -- GUARANI (PARAGUAI)
